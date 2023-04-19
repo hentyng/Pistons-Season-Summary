@@ -1,0 +1,351 @@
+{
+"Opponent_Info": [
+	{
+		"opponent_name" : "Boston Celtics",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 2
+	},
+	{
+		"opponent_name" : "Brooklyn Nets",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 7
+	},
+	{
+		"opponent_name" : "New York Knicks",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 11
+	},
+	{
+		"opponent_name" : "Philadelphia 76ers",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 4
+	},
+	{
+		"opponent_name" : "Toronto Raptors",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 5
+	},
+	{
+		"opponent_name" : "Chicago Bulls",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 6
+	},
+	{
+		"opponent_name" : "Cleveland Cavaliers",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 8
+	},
+	{
+		"opponent_name" : "Indiana Pacers",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 13
+	},
+	{
+		"opponent_name" : "Milwaukee Bucks",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 3
+	},
+	{
+		"opponent_name" : "Atlanta Hawks",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 9
+	},
+	{
+		"opponent_name" : "Charlotte Hornets",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 10
+	},
+	{
+		"opponent_name" : "Miami Heat",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 1
+	},
+	{
+		"opponent_name" : "Orlando Magic",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 15
+	},
+	{
+		"opponent_name" : "Washington Wizards",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 12
+	},
+	{
+		"opponent_name" : "Denver Nuggets",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 6
+	},
+	{
+		"opponent_name" : "Minnesota Timberwolves",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 7
+	},
+	{
+		"opponent_name" : "Oklahoma City Thunder",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 14
+	},
+	{
+		"opponent_name" : "Portland Trail Blazers",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 13
+	},
+	{
+		"opponent_name" : "Utah Jazz",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 5
+	},
+	{
+		"opponent_name" : "Golden State Warriors",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 3
+	},
+	{
+		"opponent_name" : "Los Angeles Clippers",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 8
+	},
+	{
+		"opponent_name" : "Los Angeles Lakers",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 11
+	},
+	{
+		"opponent_name" : "Phoenix Suns",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 1
+	},
+	{
+		"opponent_name" : "Sacramento Kings",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 12
+	},
+	{
+		"opponent_name" : "Dallas Mavericks",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 4
+	},
+	{
+		"opponent_name" : "Houston Rockets",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 15
+	},
+	{
+		"opponent_name" : "Memphis Grizzlies",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 2
+	},
+	{
+		"opponent_name" : "New Orleans Pelicans",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 9
+	},
+	{
+		"opponent_name" : "San Antonio Spurs",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 10
+	},
+	{
+		"opponent_name" : "Boston Celtics",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 2
+	},
+	{
+		"opponent_name" : "Brooklyn Nets",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 7
+	},
+	{
+		"opponent_name" : "New York Knicks",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 11
+	},
+	{
+		"opponent_name" : "Philadelphia 76ers",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 4
+	},
+	{
+		"opponent_name" : "Toronto Raptors",
+		"conference" : "Eastern",
+		"division" : "Atlantic",
+		"seed" : 5
+	},
+	{
+		"opponent_name" : "Chicago Bulls",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 6
+	},
+	{
+		"opponent_name" : "Cleveland Cavaliers",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 8
+	},
+	{
+		"opponent_name" : "Indiana Pacers",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 13
+	},
+	{
+		"opponent_name" : "Milwaukee Bucks",
+		"conference" : "Eastern",
+		"division" : "Central",
+		"seed" : 3
+	},
+	{
+		"opponent_name" : "Atlanta Hawks",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 9
+	},
+	{
+		"opponent_name" : "Charlotte Hornets",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 10
+	},
+	{
+		"opponent_name" : "Miami Heat",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 1
+	},
+	{
+		"opponent_name" : "Orlando Magic",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 15
+	},
+	{
+		"opponent_name" : "Washington Wizards",
+		"conference" : "Eastern",
+		"division" : "Southeast",
+		"seed" : 12
+	},
+	{
+		"opponent_name" : "Denver Nuggets",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 6
+	},
+	{
+		"opponent_name" : "Minnesota Timberwolves",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 7
+	},
+	{
+		"opponent_name" : "Oklahoma City Thunder",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 14
+	},
+	{
+		"opponent_name" : "Portland Trail Blazers",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 13
+	},
+	{
+		"opponent_name" : "Utah Jazz",
+		"conference" : "Western",
+		"division" : "Northwest",
+		"seed" : 5
+	},
+	{
+		"opponent_name" : "Golden State Warriors",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 3
+	},
+	{
+		"opponent_name" : "Los Angeles Clippers",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 8
+	},
+	{
+		"opponent_name" : "Los Angeles Lakers",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 11
+	},
+	{
+		"opponent_name" : "Phoenix Suns",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 1
+	},
+	{
+		"opponent_name" : "Sacramento Kings",
+		"conference" : "Western",
+		"division" : "Pacific",
+		"seed" : 12
+	},
+	{
+		"opponent_name" : "Dallas Mavericks",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 4
+	},
+	{
+		"opponent_name" : "Houston Rockets",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 15
+	},
+	{
+		"opponent_name" : "Memphis Grizzlies",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 2
+	},
+	{
+		"opponent_name" : "New Orleans Pelicans",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 9
+	},
+	{
+		"opponent_name" : "San Antonio Spurs",
+		"conference" : "Western",
+		"division" : "Southwest",
+		"seed" : 10
+	}
+]}
